@@ -20,7 +20,7 @@ The following PHP extensions are required:
 * simplexml
 * xmlwrite
 
-This library also uses Guzzle 6.
+This library has been updated to use Guzzle 7.
 
 ## Testing
 
